@@ -18,4 +18,7 @@ Comming soon™
 Information about contributing to the project has been placed in file [Contributing.md](https://github.com/MahBoiDeveloper/MentalOmegaWorld/blob/master/Contributing.md)
 
 ## Credits
-All information about missions authors has been placed in file [Credits.md](https://github.com/MahBoiDeveloper/MentalOmegaWorld/blob/master/Credits.md)
+### Developers
+* mah_boi - project author
+
+For all contributions and missions authors information see [full credits list in Credits.md](https://github.com/MahBoiDeveloper/MentalOmegaWorld/blob/master/Credits.md).
