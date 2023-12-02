@@ -25,11 +25,13 @@ copy Source\BattleClientCHN.ini  Build\Resources\MOW\BattleClientCHN.ini  > nul
 
 : Copy project files
 echo Copy project files...
-copy Source\creditsMOW.txt       Build\creditsMOW.txt                     > nul
-copy Source\readmeMOW.txt        Build\readmeMOW.txt                      > nul
-copy Source\OptionsWindow.ini    Build\Resources\OptionsWindow.ini        > nul
-copy Source\loadingscreenMOW.png Build\Resources\MOW\loadingscreenMOW.png > nul
-copy Source\loadingscreen.png    Build\Resources\MOW\loadingscreen.png    > nul
+copy Source\readmeMOW.txt             Build\readmeMOW.txt                           > nul
+copy Source\creditsMOW.txt            Build\creditsMOW.txt                          > nul
+copy Source\OptionsWindowCheckbox.ini Build\Resources\OptionsWindow.ini             > nul
+copy Source\loadingscreen.png         Build\Resources\MOW\loadingscreen.png         > nul
+copy Source\loadingscreenMOW.png      Build\Resources\MOW\loadingscreenMOW.png      > nul
+copy Source\OptionsWindowCheckbox.ini Build\Resources\MOW\OptionsWindowCheckbox.ini > nul
+copy Source\OptionsWindowDropdown.ini Build\Resources\MOW\OptionsWindowDropdown.ini > nul
 
 echo.
 Tools\ccmix.exe --create --lmd --game=ra2 --dir "Source\expandmo42" --mix Build\Resources\MOW\expandmo42.mix
