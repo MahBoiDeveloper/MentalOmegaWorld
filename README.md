@@ -7,7 +7,7 @@ Comming soon™
 ## Installation and Usage
 Comming soon™
 
-Addon can not be used with other fanmade mission(s), campaigns, fan patches, but can be used with official and non-official Mental Omega language packages.
+Addon cannot be used with other fanmade mission(s), campaigns, fan patches, but can be used with official and unofficial Mental Omega language packages.
 
 ## Building
 Comming soon™
