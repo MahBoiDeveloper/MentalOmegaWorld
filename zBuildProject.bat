@@ -5,6 +5,7 @@ echo.
 : Clearing Build folder
 rmdir /s /q Build
 mkdir Build
+mkdir Build\INI
 mkdir Build\Resources
 mkdir Build\Resources\MOW
 
@@ -26,10 +27,11 @@ copy Source\BattleClientCHN.ini  Build\Resources\MOW\BattleClientCHN.ini  > nul
 
 : Copy project files
 echo Copy project files...
-copy Source\readmeMOW.txt     Build\readmeMOW.txt               > nul
-copy Source\creditsMOW.txt    Build\creditsMOW.txt              > nul
-copy Source\OptionsWindow.ini Build\Resources\OptionsWindow.ini > nul
-copy Source\loadingscreen.png Build\Resources\loadingscreen.png > nul
+copy Source\readmeMOW.txt       Build\readmeMOW.txt               > nul
+copy Source\creditsMOW.txt      Build\creditsMOW.txt              > nul
+copy Source\BattleClientENG.ini Build\INI\BattleClient.ini        > nul
+copy Source\OptionsWindow.ini   Build\Resources\OptionsWindow.ini > nul
+copy Source\loadingscreen.png   Build\Resources\loadingscreen.png > nul
 
 echo.
 Tools\ccmix.exe --create --lmd --game=ra2 --dir "Source\expandmo42" --mix Build\expandmo42.mix

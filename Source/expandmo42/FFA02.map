@@ -10937,7 +10937,7 @@ Type=UnitDelivery
 Range=1.5
 Action=Custom
 Cursor=Flame
-UIName=NOSTR:Pyro Ambush
+UIName=FFA02:PyroAmbush
 NoCursor=NoCanDo
 EVA.Ready=EVA_ReinforcementsReady
 IsPowered=false
@@ -11205,7 +11205,7 @@ ParTimeHard=00:25:00
 OverParTitle=NAME:REPORT
 ParTimeMedium=00:23:00
 UnderParTitle=NAME:REPORT
-OverParMessage=post:a02
+OverParMessage=post:ffa02
 UnderParMessage=post:ffa02
 
 [SBTR]
