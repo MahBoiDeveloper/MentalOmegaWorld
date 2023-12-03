@@ -1,6 +1,6 @@
 # Credits
 ## Mission authors
-This table contains information about all fanmade missions, which has been added to the project
+This table contains information about all fanmade missions, which has been added to the project. About translation status see more in [Translations.md](https://github.com/MahBoiDeveloper/MentalOmegaWorld/blob/master/Translations.md)
 
 | Author(s)    | Campaign/Mission                   | Version | Download Info & Links |
 | ------------ | ---------------------------------- | ------- | --------------------- |
