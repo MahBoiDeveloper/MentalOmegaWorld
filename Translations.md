@@ -5,3 +5,4 @@ This file contains information about original mission's language and translation
 | ---------------------------------- | ------- | ----------------- | ------- | ------- | -------- |
 | Scorpion Cell Chronicles           | 0.2     | English           | +       | +       | -        |
 | Flipped Almost Perfect Red Alert 2 | N/A     | English           | +       | +       | -        |
+| Allied SpecOp: War Cry             | N/A     | English           | +       | -       | -        |
