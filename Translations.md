@@ -3,6 +3,6 @@ This file contains information about original mission's language and translation
 
 | Campaign/Mission                   | Version | Original Language | English | Russian | Chineese |
 | ---------------------------------- | ------- | ----------------- | ------- | ------- | -------- |
-| Scorpion Cell Chronicles           | 0.2     | English           | +       | +       | -        |
-| Flipped Almost Perfect Red Alert 2 | N/A     | English           | +       | +       | -        |
-| Allied SpecOp: War Cry             | N/A     | English           | +       | -       | -        |
+| Scorpion Cell Chronicles           | 0.2     | English           | [x]     | [x]     | []       |
+| Flipped Almost Perfect Red Alert 2 | N/A     | English           | [x]     | [x]     | []       |
+| Allied SpecOp: War Cry             | N/A     | English           | [x]     | [x]     | []       |
