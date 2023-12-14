@@ -16,7 +16,7 @@ This table contains information about all fanmade missions, which has been added
 | ---------------------------------- | ------- | -------------- | -------------- | -------------- |
 | Scorpion Cell Chronicles           | 0.2     | FCT            | mah_boi        | ZYJYGE         |
 | Flipped Almost Perfect Red Alert 2 | N/A     | Yazanus        | mah_boi        |                |
-| Allied Op: War Cry                 | N/A     | LizardBrain    | mah_boi        |                |
+| Allied Op: War Cry                 | N/A     | LizardBrain    | mah_boi        | ZYJYGE         |
 | Allied Op: Chill The Messenger     | N/A     | Mentalmeisters | Mentalmeisters | Mentalmeisters |
 | Epsilon Op: Fool The Messenger     | N/A     | Mentalmeisters | Mentalmeisters | Mentalmeisters |
 | Red Dawn Rising Fan Remaster       | N/A     | Mentalmeisters | Mentalmeisters | Mentalmeisters |
