@@ -19,4 +19,5 @@ This table contains information about all fanmade missions, which has been added
 | Allied Op: War Cry                 | N/A     | LizardBrain    | mah_boi        | ZYJYGE         |
 | Allied Op: Chill The Messenger     | N/A     | Mentalmeisters | Mentalmeisters | Mentalmeisters |
 | Epsilon Op: Fool The Messenger     | N/A     | Mentalmeisters | Mentalmeisters | Mentalmeisters |
+| Epsilon Op: Metaphor               | N/A     | LizardBrain    |                |                |
 | Red Dawn Rising Fan Remaster       | N/A     | Mentalmeisters | Mentalmeisters | Mentalmeisters |

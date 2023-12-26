@@ -8,4 +8,5 @@ This file contains information about original mission's language and translation
 | Allied Op: War Cry                 | N/A     | English           | +       | +       | -        |
 | Allied Op: Chill The Messenger     | N/A     | English           | +       | +       | +        |
 | Epsilon Op: Fool The Messenger     | N/A     | English           | +       | +       | +        |
+| Epsilon Op: Metaphor               | N/A     | English           | +       | -       | -        |
 | Red Dawn Rising Fan Remaster       | N/A     | English           | +       | +       | +        |

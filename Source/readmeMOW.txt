@@ -14,3 +14,5 @@ Information about mission author read more at creditsMOW.txt
 
 
 Thank you for playing!
+
+Release build has been downloaded there: https://github.com/MahBoiDeveloper/MentalOmegaWorld
