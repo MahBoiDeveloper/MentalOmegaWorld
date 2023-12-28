@@ -1,7 +1,7 @@
 # Credits
-## Mission authors
 This table contains information about all fanmade missions, which has been added to the project. About translation status see more in [Translations.md](https://github.com/MahBoiDeveloper/MentalOmegaWorld/blob/master/Translations.md)
 
+## Mission authors
 | Author(s) | Campaign/Mission | Version | Download Info & Links |
 | --------- | ---------------- | ------- | --------------------- |
 | [FCT](https://www.youtube.com/@fct7692/videos) | Scorpion Cell Chronicles | 0.2 | [MO Discord Server](https://discord.com/invite/KpJzhWY) & [Message Link](https://discord.com/channels/190039409041735680/446580509481369600/1142822891877060699)
@@ -9,15 +9,4 @@ This table contains information about all fanmade missions, which has been added
 | LizardBrain | Allied Op: War Cry | N/A | [MO Discord Server](https://discord.com/invite/KpJzhWY) & [Message Link](https://discord.com/channels/190039409041735680/446580509481369600/1092966459765956658)
 | LizardBrain | Allied Op: Chill The Messenger | N/A | [MO Discord Server](https://discord.com/invite/KpJzhWY) & [Message Link](https://discord.com/channels/190039409041735680/446580509481369600/1013924229881802843)
 | LizardBrain | Epsilon Op: Fool The Messenger | N/A | [MO Discord Server](https://discord.com/invite/KpJzhWY) & [Message Link](https://discord.com/channels/190039409041735680/446580509481369600/1015641329335816372)
-| [Yazanus](https://www.youtube.com/@yazanus4530/videos) | Red Dawn Rising Fan Remaster | N/A | [Youtube Video](https://www.youtube.com/watch?v=4o5fKbJsEmc) & [Download Link](https://drive.google.com/file/d/16Zx4FZBmuSaYBp4YO7aEUrKQB9dWXNSP/view)
-
-## Translation authors
-| Campaign/Mission                   | Version | English        | Russian        | Chinese        |
-| ---------------------------------- | ------- | -------------- | -------------- | -------------- |
-| Scorpion Cell Chronicles           | 0.2     | FCT            | mah_boi        | ZYJYGE         |
-| Flipped Almost Perfect Red Alert 2 | N/A     | Yazanus        | mah_boi        |                |
-| Allied Op: War Cry                 | N/A     | LizardBrain    | mah_boi        | ZYJYGE         |
-| Allied Op: Chill The Messenger     | N/A     | Mentalmeisters | Mentalmeisters | Mentalmeisters |
-| Epsilon Op: Fool The Messenger     | N/A     | Mentalmeisters | Mentalmeisters | Mentalmeisters |
-| Epsilon Op: Metaphor               | N/A     | LizardBrain    |                |                |
-| Red Dawn Rising Fan Remaster       | N/A     | Mentalmeisters | Mentalmeisters | Mentalmeisters |
+| [Yazanus](https://www.youtube.com/@yazanus4530/videos) | Allied Op: Red Dawn Rising | N/A | [Youtube Video](https://www.youtube.com/watch?v=4o5fKbJsEmc) & [Download Link](https://drive.google.com/file/d/16Zx4FZBmuSaYBp4YO7aEUrKQB9dWXNSP/view)
