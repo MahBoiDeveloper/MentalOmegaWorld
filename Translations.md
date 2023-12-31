@@ -9,5 +9,5 @@ This file contains information about original mission's language and translation
 | Allied Op: War Cry                 | N/A     | LizardBrain    | mah_boi        | ZYJYGE         |
 | Allied Op: Chill The Messenger     | N/A     | Mentalmeisters | Mentalmeisters | Mentalmeisters |
 | Epsilon Op: Fool The Messenger     | N/A     | Mentalmeisters | Mentalmeisters | Mentalmeisters |
-| Epsilon Op: Metaphor               | N/A     | LizardBrain    |                |                |
+| Epsilon Op: Metaphor               | N/A     | LizardBrain    | mah_boi        |                |
 | Allied Op: Red Dawn Rising         | N/A     | Mentalmeisters | Mentalmeisters | Mentalmeisters |

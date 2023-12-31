@@ -16470,6 +16470,15 @@ TiberiumGrowthEnabled=yes
 IgnoreGlobalAITriggers=no
 TiberiumDeathToVisceroid=no
 
+[Ranking]
+ParTimeEasy=01:30:00
+ParTimeMedium=01:00:00
+ParTimeHard=00:30:00
+OverParTitle=NAME:REPORTY
+UnderParTitle=NAME:REPORTY
+OverParMessage=POST:FEMTPHOR
+UnderParMessage=POST:FEMTPHOR
+
 [BuildingTypes]
 0=NAEMPS2
 1=NAEMPS3
