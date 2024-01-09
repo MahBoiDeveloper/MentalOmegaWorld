@@ -34,4 +34,4 @@ Information about contributing standart contains in [Contributing.md](https://gi
 ### Developers
 * mah_boi - project author
 
-For all contributions and missions authors information see [full credits list in Credits.md](https://github.com/MahBoiDeveloper/MentalOmegaWorld/blob/master/Credits.md).
+Information about translation contribution's authors see more at [Translation.md](https://github.com/MahBoiDeveloper/MentalOmegaWorld/blob/master/Translations.md), and all other contributions and missions authors information see full credits list in [Credits.md](https://github.com/MahBoiDeveloper/MentalOmegaWorld/blob/master/Credits.md).
