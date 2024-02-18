@@ -11,7 +11,7 @@ There are 2 ways to download mappack:
 
 ## Installation and Usage
 0. Install [Mental Omega 3.3.6](https://mentalomega.com/index.php?page=download) and needed language package.
-1. Download [Mental Omega World](https://github.com/MahBoiDeveloper/MentalOmegaWorld/releases) release build.
+1. Download [Mental Omega World](https://github.com/MahBoiDeveloper/MentalOmegaWorld/releases) release build or [developer build](https://github.com/MahBoiDeveloper/MentalOmegaWorld/actions).
 2. Unpack the MOW package and drop the content from it to MO folder with the agreed replacement files.
 3. Launch MO via `MentalOmegaClient.exe`, go to `Options`->`Display` and set needed language in drop down `MOW Language`.
 
