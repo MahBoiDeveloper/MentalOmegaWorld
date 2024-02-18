@@ -1,0 +1,30 @@
+name: Build Project
+
+# Workflow will trigger on any push to the master/main branch
+on: 
+  push:
+    branches:
+      - master
+      - main
+
+jobs:
+  Build:
+    # Building server
+    runs-on: windows-2022
+    # Commands to complete task
+    steps:
+
+      # Cloning all repository
+      - name: Get Sources
+        uses: actions/checkout@v3
+
+      # Compile it via shitty .bat file
+      - name: Compile Project
+        run: Start-Process -Wait -FilePath "zBuildProject.bat"
+
+      # Upload artifact to the GitHub
+      - name: Upload Artifact
+        uses: actions/upload-artifact@v2
+        with:
+          name: MOW-${{github.sha}}.zip
+          path: Build/**
