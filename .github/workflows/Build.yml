@@ -20,7 +20,8 @@ jobs:
 
       # Compile it via shitty .bat file
       - name: Compile Project
-        run: Start-Process -Wait -FilePath "zBuildProject.bat"
+        shell: cmd
+        run: zBuildProject.bat
 
       # Upload artifact to the GitHub
       - name: Upload Artifact
