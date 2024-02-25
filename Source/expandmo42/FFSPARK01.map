@@ -1219,6 +1219,15 @@ TiberiumGrowthEnabled=yes
 IgnoreGlobalAITriggers=no
 TiberiumDeathToVisceroid=no
 
+[Ranking]
+ParTimeEasy=00:40:00
+ParTimeMedium=00:40:00
+ParTimeHard=00:40:00
+OverParTitle=post:REPORTE
+OverParMessage=post:ffspark01
+UnderParTitle=post:REPORTE
+UnderParMessage=post:ffspark01
+
 [Chinese House]
 IQ=5
 Edge=North
