@@ -11,3 +11,4 @@ This file contains information about original mission's language and translation
 | Epsilon Op: Fool The Messenger     | N/A     | Mentalmeisters | Mentalmeisters | Mentalmeisters |
 | Epsilon Op: Metaphor               | N/A     | LizardBrain    | mah_boi        |                |
 | Allied Op: Red Dawn Rising         | N/A     | Mentalmeisters | Mentalmeisters | Mentalmeisters |
+| Vietnam War                        | 0.3     | siuu           |                |                |

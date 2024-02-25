@@ -10,3 +10,4 @@ This table contains information about all fanmade missions, which has been added
 | LizardBrain | Allied Op: Chill The Messenger | N/A | [MO Discord Server](https://discord.com/invite/KpJzhWY) & [Message Link](https://discord.com/channels/190039409041735680/446580509481369600/1013924229881802843)
 | LizardBrain | Epsilon Op: Fool The Messenger | N/A | [MO Discord Server](https://discord.com/invite/KpJzhWY) & [Message Link](https://discord.com/channels/190039409041735680/446580509481369600/1015641329335816372)
 | [Yazanus](https://www.youtube.com/@yazanus4530/videos) | Allied Op: Red Dawn Rising | N/A | [Youtube Video](https://www.youtube.com/watch?v=4o5fKbJsEmc) & [Download Link](https://drive.google.com/file/d/16Zx4FZBmuSaYBp4YO7aEUrKQB9dWXNSP/view)
+| siuu | Vietnam War | 0.3 | [MO Discord Server](https://discord.com/invite/KpJzhWY) & [Message Link](https://discord.com/channels/190039409041735680/446580509481369600/1139027160187818075)
