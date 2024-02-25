@@ -4574,9 +4574,9 @@ TiberiumDeathToVisceroid=no
 ParTimeEasy=02:00:00
 ParTimeMedium=01:40:00
 ParTimeHard=01:00:00
-OverParTitle=post:REPORTE
+OverParTitle=NAME:REPORTE
 OverParMessage=post:ffspark02
-UnderParTitle=post:REPORTE
+UnderParTitle=NAME:REPORTE
 UnderParMessage=post:ffspark02
 
 [Chinese House]
