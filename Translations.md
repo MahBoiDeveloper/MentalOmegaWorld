@@ -12,5 +12,5 @@ This file contains information about original mission's language and translation
 | Epsilon Op: Metaphor               | N/A     | LizardBrain    | mah_boi        |                |
 | Allied Op: Red Dawn Rising         | N/A     | Mentalmeisters | Mentalmeisters | Mentalmeisters |
 | Vietnam War                        | 0.3     | siuu           |                |                |
-| Spark On The Space (Space Mission) | N/A     | Takitoru John? | mah_boi        |                |
-| Spark On The Space (Mars Mission)  | N/A     | Takitoru John? | mah_boi        |                |
+| Spark On The Space (Space Mission) | N/A     | Takitoru John? | mah_boi        | Takitoru John  |
+| Spark On The Space (Mars Mission)  | N/A     | Takitoru John? | mah_boi        | Takitoru John  |
