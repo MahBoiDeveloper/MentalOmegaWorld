@@ -12,8 +12,9 @@ This file contains information about original mission's language and translation
 | Epsilon Op: Dragonstorm            | N/A     | Mentalmeisters | Mentalmeisters | Mentalmeisters |
 | Epsilon Op: Eclipse                | N/A     | Mentalmeisters | Mentalmeisters | Mentalmeisters |
 | Foehn Op: Power Hunger             | N/A     | Mentalmeisters | Mentalmeisters | Mentalmeisters |
-| Spark On The Space (Space Mission) | N/A     | Takitoru John? | mah_boi        | Takitoru John  |
-| Spark On The Space (Mars Mission)  | N/A     | Takitoru John? | mah_boi        | Takitoru John  |
+| Foehn Op: Spark On The Space       | N/A     | Takitoru John? | mah_boi        | Takitoru John  |
+| Foehn Op: Spark On The Mars        | N/A     | Takitoru John? | mah_boi        | Takitoru John  |
+| Allied Op: Spark On The Mars       | N/A     | Takitoru John? | mah_boi        | Takitoru John  |
 | Allied Op: War Cry                 | N/A     | LizardBrain    | mah_boi        | ZYJYGE         |
 | Epsilon Op: Metaphor               | N/A     | LizardBrain    | mah_boi        |                |
 | Flipped Almost Perfect Red Alert 2 | N/A     | Yazanus        | mah_boi        |                |
