@@ -8639,8 +8639,8 @@ ParTimeHard=00:50:00
 OverParTitle=NAME:REPORT
 ParTimeMedium=00:55:00
 UnderParTitle=NAME:REPORT
-OverParMessage=post:vnts
-UnderParMessage=post:vnts
+OverParMessage=post:fsvnts
+UnderParMessage=post:fsvnts
 
 [SCAR]
 Cost=500

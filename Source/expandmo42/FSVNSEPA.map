@@ -2701,7 +2701,7 @@ FOETR136BLB-G=yes
 01000176=1,11,4,fsvnsepa:24,0,0,0,0,A
 01000178=2,56,0,3,0,0,0,0,A,53,2,01000270,0,0,0,0,A
 01000180=2,32,0,0,0,0,0,0,A,11,4,fsvnsepa:14,0,0,0,0,A
-01000182=5,21,6,EVA_ObjectiveComplete,0,0,0,0,A,11,4,mission:objectivecompleted,0,0,0,0,A,19,7,ObjectiveComplete,0,0,0,0,A,53,2,01000184,0,0,0,0,A,54,2,01000178,0,0,0,0,A
+01000182=5,21,6,EVA_ObjectiveComplete,0,0,0,0,A,11,4,mission:objc,0,0,0,0,A,19,7,ObjectiveComplete,0,0,0,0,A,53,2,01000184,0,0,0,0,A,54,2,01000178,0,0,0,0,A
 01000184=3,11,4,fsvnsepa:25,0,0,0,0,A,53,2,01000186,0,0,0,0,A,53,2,01000188,0,0,0,0,A
 01000186=2,113,0,3,0,0,0,0,A,19,7,AssaultFlagDestroyed,0,0,0,0,A
 01000188=2,11,4,fsvnsepa:33,0,0,0,0,A,53,2,01000190,0,0,0,0,A
@@ -5992,8 +5992,8 @@ ParTimeHard=00:50:00
 OverParTitle=NAME:REPORT
 ParTimeMedium=00:45:00
 UnderParTitle=NAME:REPORT
-OverParMessage=post:vnsepa
-UnderParMessage=post:vnsepa
+OverParMessage=post:fsvnsepa
+UnderParMessage=post:fsvnsepa
 
 [SCAR]
 TechLevel=-1

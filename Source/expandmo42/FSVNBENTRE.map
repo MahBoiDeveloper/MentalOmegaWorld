@@ -10491,8 +10491,8 @@ ParTimeHard=1:00:00
 OverParTitle=NAME:REPORT
 ParTimeMedium=1:05:00
 UnderParTitle=NAME:REPORT
-OverParMessage=post:vnbentre
-UnderParMessage=post:vnbentre
+OverParMessage=post:fsvnbentre
+UnderParMessage=post:fsvnbentre
 
 [SBTR]
 Hero=yes
