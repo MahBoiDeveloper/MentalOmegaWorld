@@ -24,7 +24,6 @@ copy Source\stringtable42CHN.csf Build\Resources\MOW\stringtable42CHN.csf > nul
 copy Source\BattleClientENG.ini  Build\Resources\MOW\BattleClientENG.ini  > nul
 copy Source\BattleClientRUS.ini  Build\Resources\MOW\BattleClientRUS.ini  > nul
 copy Source\BattleClientCHN.ini  Build\Resources\MOW\BattleClientCHN.ini  > nul
-echo.
 
 : Copy project files
 echo Copy project files...
@@ -39,8 +38,6 @@ for /f "tokens=*" %%f in ('dir "Source\MIX\" /a:d /b') do (
 	echo Compiling %%f.mix...
 	Tools\ccmix.exe --create --lmd --game=ra2 --dir "Source\MIX\%%f" --mix "Build\%%f.mix"
 	)
+echo.
 echo MIX archives has been compiled
-echo.
-
 echo Project compilation has been finished. Please check Build folder
-echo.
