@@ -35,8 +35,11 @@ copy Source\OptionsWindow.ini   Build\Resources\OptionsWindow.ini > nul
 copy Source\loadingscreen.png   Build\Resources\loadingscreen.png > nul
 echo.
 
-Tools\ccmix.exe --create --lmd --game=ra2 --dir "Source\expandmo42" --mix Build\expandmo42.mix
-echo MIX archive has been compiled
+for /f "tokens=*" %%f in ('dir "Source\MIX\" /a:d /b') do (
+	echo Compiling %%f.mix...
+	Tools\ccmix.exe --create --lmd --game=ra2 --dir "Source\MIX\%%f" --mix "Build\%%f.mix"
+	)
+echo MIX archives has been compiled
 echo.
 
 echo Project compilation has been finished. Please check Build folder
