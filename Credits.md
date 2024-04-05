@@ -19,3 +19,6 @@ This table contains information about all fanmade missions, which has been added
 | [VN]Fubuk1                                             | Epsilon Op: Dragonstorm            | N/A     | [Youtube Video](https://www.youtube.com/watch?v=7HjEVuQ3WfY) & [Download Link](https://www.mediafire.com/file/b3nvkl01zpqx8my/Mission_Pack_V2-%255BVN%255DFubuk1.rar/file)
 | [VN]Fubuk1                                             | Epsilon Op: Eclipse                | N/A     | [Youtube Video](https://www.youtube.com/watch?v=7HjEVuQ3WfY) & [Download Link](https://www.mediafire.com/file/b3nvkl01zpqx8my/Mission_Pack_V2-%255BVN%255DFubuk1.rar/file)
 | [VN]Fubuk1                                             | Foehn Op: Power Hunger             | N/A     | [Youtube Video](https://www.youtube.com/watch?v=7HjEVuQ3WfY) & [Download Link](https://www.mediafire.com/file/b3nvkl01zpqx8my/Mission_Pack_V2-%255BVN%255DFubuk1.rar/file)
+
+## Tools authors
+* [ccmix](https://github.com/OmniBlade/ccmix) by [OmniBlade](https://github.com/OmniBlade)
