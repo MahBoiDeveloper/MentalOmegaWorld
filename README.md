@@ -22,16 +22,16 @@ Addon cannot be used with other fanmade mission(s), campaigns, fan patches, but 
 1. Run `zBuildProject.bat` script, which creates `Build` folder with compiled project.
 
 ## Documentation
-Almost all information about what is the project, how to download the project, and how to build the project contains in [Readme.md](https://github.com/MahBoiDeveloper/MentalOmegaWorld/blob/master/README.md)
+Almost all information about what is the project, how to download the project, and how to build the project contains in [Readme.md](https://github.com/MahBoiDeveloper/MentalOmegaWorld/blob/master/README.md).
 
-Information about original mission and campaign authors with links to their projects contains in [Credits.md](https://github.com/MahBoiDeveloper/MentalOmegaWorld/blob/master/Credits.md)
+Information about original mission and campaign authors with links to their projects contains in [Credits.md](https://github.com/MahBoiDeveloper/MentalOmegaWorld/blob/master/Credits.md).
 
-Information about mission and campaign translation status contains in [Translations.md](https://github.com/MahBoiDeveloper/MentalOmegaWorld/blob/master/Translations.md)
+Information about mission and campaign translation status contains in [Translations.md](https://github.com/MahBoiDeveloper/MentalOmegaWorld/blob/master/Translations.md).
 
-Information about contributing standart contains in [Contributing.md](https://github.com/MahBoiDeveloper/MentalOmegaWorld/blob/master/Contributing.md)
+Information about contributing standart contains in [Contributing.md](https://github.com/MahBoiDeveloper/MentalOmegaWorld/blob/master/Contributing.md).
 
 ## Credits
 ### Developers
 * mah_boi - project author
 
-Information about translation contribution's authors see more at [Translation.md](https://github.com/MahBoiDeveloper/MentalOmegaWorld/blob/master/Translations.md), and all other contributions and missions authors information see full credits list in [Credits.md](https://github.com/MahBoiDeveloper/MentalOmegaWorld/blob/master/Credits.md).
+Information about translation contribution's authors see more at [Translation.md](https://github.com/MahBoiDeveloper/MentalOmegaWorld/blob/master/Translations.md), and all other contributions, missions and tools authors information see full credits list in [Credits.md](https://github.com/MahBoiDeveloper/MentalOmegaWorld/blob/master/Credits.md).
