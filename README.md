@@ -22,13 +22,11 @@ Addon cannot be used with other fanmade mission(s), campaigns, fan patches, but 
 1. Run `zBuildProject.bat` script, which creates `Build` folder with compiled project.
 
 ## Documentation
-Almost all information about what is the project, how to download the project, and how to build the project contains in [Readme.md](https://github.com/MahBoiDeveloper/MentalOmegaWorld/blob/master/README.md).
-
-Information about original mission and campaign authors with links to their projects contains in [Credits.md](https://github.com/MahBoiDeveloper/MentalOmegaWorld/blob/master/Credits.md).
-
-Information about mission and campaign translation status contains in [Translations.md](https://github.com/MahBoiDeveloper/MentalOmegaWorld/blob/master/Translations.md).
-
-Information about contributing standart contains in [Contributing.md](https://github.com/MahBoiDeveloper/MentalOmegaWorld/blob/master/Contributing.md).
+Project has some files with full information about itself:
+	* [Readme.md](https://github.com/MahBoiDeveloper/MentalOmegaWorld/blob/master/README.md): contains information about what is the project, how to download the project, and how to build the project contains;
+	* [Credits.md](https://github.com/MahBoiDeveloper/MentalOmegaWorld/blob/master/Credits.md): contains information about original mission's and campaign's authors with links to their original uploads.
+	* [Translations.md](https://github.com/MahBoiDeveloper/MentalOmegaWorld/blob/master/Translations.md): contains information about mission's and campaign's translation status.
+	* [Contributing.md](https://github.com/MahBoiDeveloper/MentalOmegaWorld/blob/master/Contributing.md): contains information about contributing standard.
 
 ## Credits
 ### Developers
