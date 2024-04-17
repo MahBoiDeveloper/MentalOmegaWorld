@@ -23,10 +23,10 @@ Addon cannot be used with other fanmade mission(s), campaigns, fan patches, but 
 
 ## Documentation
 Project has some files with full information about itself:
-	* [Readme.md](https://github.com/MahBoiDeveloper/MentalOmegaWorld/blob/master/README.md): contains information about what is the project, how to download the project, and how to build the project contains;
-	* [Credits.md](https://github.com/MahBoiDeveloper/MentalOmegaWorld/blob/master/Credits.md): contains information about original mission's and campaign's authors with links to their original uploads.
-	* [Translations.md](https://github.com/MahBoiDeveloper/MentalOmegaWorld/blob/master/Translations.md): contains information about mission's and campaign's translation status.
-	* [Contributing.md](https://github.com/MahBoiDeveloper/MentalOmegaWorld/blob/master/Contributing.md): contains information about contributing standard.
+* [Readme.md](https://github.com/MahBoiDeveloper/MentalOmegaWorld/blob/master/README.md): contains information about what is the project, how to download the project, and how to build the project contains;
+* [Credits.md](https://github.com/MahBoiDeveloper/MentalOmegaWorld/blob/master/Credits.md): contains information about original mission's and campaign's authors with links to their original uploads.
+* [Translations.md](https://github.com/MahBoiDeveloper/MentalOmegaWorld/blob/master/Translations.md): contains information about mission's and campaign's translation status.
+* [Contributing.md](https://github.com/MahBoiDeveloper/MentalOmegaWorld/blob/master/Contributing.md): contains information about contributing standard.
 
 ## Credits
 ### Developers
