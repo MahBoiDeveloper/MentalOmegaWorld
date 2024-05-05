@@ -29,7 +29,4 @@ Project has some files with full information about itself:
 * [Contributing.md](https://github.com/MahBoiDeveloper/MentalOmegaWorld/blob/master/Contributing.md): contains information about contributing standard.
 
 ## Credits
-### Developers
-* mah_boi - project author
-
 Information about translation contribution's authors see more at [Translation.md](https://github.com/MahBoiDeveloper/MentalOmegaWorld/blob/master/Translations.md), and all other contributions, missions and tools authors information see full credits list in [Credits.md](https://github.com/MahBoiDeveloper/MentalOmegaWorld/blob/master/Credits.md).
