@@ -1,7 +1,13 @@
 # Credits
-This table contains information about all fanmade missions, which has been added to the project. About translation status see more in [Translations.md](https://github.com/MahBoiDeveloper/MentalOmegaWorld/blob/master/Translations.md)
+## Developers
+* mah_boi — project author
+
+## Contributors
+* [DESolatorTrooper](https://www.moddb.com/members/deso3latortro0per/addons) — loading background image
 
 ## Mission authors
+This table contains information about all fanmade missions, which has been added to the project. About translation status see more in [Translations.md](https://github.com/MahBoiDeveloper/MentalOmegaWorld/blob/master/Translations.md)
+
 | Author(s)                                              | Campaign/Mission                   | Version | Download Info & Links |
 | ------------------------------------------------------ | ---------------------------------- | ------- | --------------------- |
 | [FCT](https://www.youtube.com/@fct7692/videos)         | Scorpion Cell Chronicles           | 0.2     | [MO Discord Server](https://discord.com/invite/KpJzhWY) & [Message Link](https://discord.com/channels/190039409041735680/446580509481369600/1142822891877060699)
@@ -20,5 +26,5 @@ This table contains information about all fanmade missions, which has been added
 | [VN]Fubuk1                                             | Epsilon Op: Eclipse                | N/A     | [Youtube Video](https://www.youtube.com/watch?v=7HjEVuQ3WfY) & [Download Link](https://www.mediafire.com/file/b3nvkl01zpqx8my/Mission_Pack_V2-%255BVN%255DFubuk1.rar/file)
 | [VN]Fubuk1                                             | Foehn Op: Power Hunger             | N/A     | [Youtube Video](https://www.youtube.com/watch?v=7HjEVuQ3WfY) & [Download Link](https://www.mediafire.com/file/b3nvkl01zpqx8my/Mission_Pack_V2-%255BVN%255DFubuk1.rar/file)
 
-## Tools authors
+## Used tools
 * [ccmix](https://github.com/OmniBlade/ccmix) by [OmniBlade](https://github.com/OmniBlade)
