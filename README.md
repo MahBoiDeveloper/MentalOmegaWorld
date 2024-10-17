@@ -21,12 +21,9 @@ Addon cannot be used with other fanmade mission(s), campaigns, fan patches, but 
 0. Download the project (git clone or manually via github).
 1. Run `zBuildProject.bat` script, which creates `Build` folder with compiled project.
 
-## Documentation
-Project has some files with full information about itself:
+## Documentation and Credits
+Project has files with full information about itself:
 * [Readme.md](https://github.com/MahBoiDeveloper/MentalOmegaWorld/blob/master/README.md): contains information about what is the project, how to download the project, and how to build the project contains;
-* [Credits.md](https://github.com/MahBoiDeveloper/MentalOmegaWorld/blob/master/Credits.md): contains information about original mission's and campaign's authors with links to their original uploads.
+* [Credits.md](https://github.com/MahBoiDeveloper/MentalOmegaWorld/blob/master/Credits.md): contains information about original mission's and campaign's authors with links to their original uploads also as the links to the tools authors used in project.
 * [Translations.md](https://github.com/MahBoiDeveloper/MentalOmegaWorld/blob/master/Translations.md): contains information about mission's and campaign's translation status.
 * [Contributing.md](https://github.com/MahBoiDeveloper/MentalOmegaWorld/blob/master/Contributing.md): contains information about contributing standard.
-
-## Credits
-Information about translation contribution's authors see more at [Translation.md](https://github.com/MahBoiDeveloper/MentalOmegaWorld/blob/master/Translations.md), and all other contributions, missions and tools authors information see full credits list in [Credits.md](https://github.com/MahBoiDeveloper/MentalOmegaWorld/blob/master/Credits.md).
