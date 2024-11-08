@@ -19,4 +19,4 @@ This file contains information about original mission's language and translation
 | Epsilon Op: Metaphor               | N/A     | LizardBrain    | mah_boi        |                |
 | Flipped Almost Perfect Red Alert 2 | N/A     | Yazanus        | mah_boi        |                |
 | Scorpion Cell Chronicles           | 0.2     | FCT            | mah_boi        | ZYJYGE         |
-| Vietnam War                        | 0.3     | siuu           |                |                |
+| Vietnam War                        | 0.3     | Ruler          | mah_boi        |                |
