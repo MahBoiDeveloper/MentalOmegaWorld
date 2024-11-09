@@ -3,7 +3,7 @@ About
 
 Installation and Usage
 	0. Install Mental Omega 3.3.6
-	1* Install language package you want
+	1. Install language package you want
 	2. Unpack MOW to the MO 3.3.6 folder with the agreed replacement files
 	3. Launch MentalOmegaClient.exe and set language at Options -> Display -> MOW Language
 	
