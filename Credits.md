@@ -1,6 +1,6 @@
 # Credits
 ## Developers
-* mah_boi — project author
+* mah_boi — project's author, maintainer
 
 ## Contributors
 * [DESolatorTrooper](https://www.moddb.com/members/deso3latortro0per/addons) — loading background image
