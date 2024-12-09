@@ -27,3 +27,19 @@ Project has files with full information about itself:
 * [Credits.md](https://github.com/MahBoiDeveloper/MentalOmegaWorld/blob/master/Credits.md): contains information about original mission's and campaign's authors with links to their original uploads also as the links to the tools authors used in project.
 * [Translations.md](https://github.com/MahBoiDeveloper/MentalOmegaWorld/blob/master/Translations.md): contains information about mission's and campaign's translation status.
 * [Contributing.md](https://github.com/MahBoiDeveloper/MentalOmegaWorld/blob/master/Contributing.md): contains information about contributing standard.
+
+## License
+Creative Commons Attribution-NonCommercial 4.0 International Public License<br/>
+Copyright (C) 2023-2024 mah_boi
+
+This license enables reusers to distribute, remix, adapt, and build upon the material in any medium or format for noncommercial purposes only, and only so long as attribution is given to the creator. CC BY-NC includes the following elements:
+
+ * BY: Credit must be given to the creator of this project and other maps, missions, campaigns authors.
+ * NC: Only noncommercial uses of the work are permitted.
+
+Read more about license: https://creativecommons.org/licenses/by-nc/4.0/legalcode.txt
+
+Read more about original missions and campaigns authors: https://github.com/MahBoiDeveloper/MentalOmegaWorld/blob/master/Credits.md
+
+## Legal
+This project has no direct affiliation with Electronic Arts Inc. Command & Conquer, Command & Conquer Red Alert 2, Command & Conquer Yuri's Revenge are registered trademarks of Electronic Arts Inc. All Rights Reserved.
