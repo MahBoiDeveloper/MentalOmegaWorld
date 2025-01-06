@@ -1,6 +1,6 @@
 <p align="center">
 	<a href="https://github.com/MahBoiDeveloper/MentalOmegaWorld">
-		<img src="https://github.com/MahBoiDeveloper/MentalOmegaWorld/blob/main/logo.png" alt="Mental Omega World Logo">
+		<img src="https://github.com/MahBoiDeveloper/MentalOmegaWorld/blob/master/logo.png" alt="Mental Omega World Logo">
 	</a>
 </p>
 
