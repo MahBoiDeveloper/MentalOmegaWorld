@@ -1,6 +1,12 @@
-# Mental Omega World
+<p align="center">
+	<a href="https://github.com/MahBoiDeveloper/MentalOmegaWorld">
+		<img src="https://github.com/MahBoiDeveloper/MentalOmegaWorld/blob/main/logo.png" alt="Mental Omega World Logo">
+	</a>
+</p>
+
 [![Github All Releases](https://img.shields.io/github/downloads/MahBoiDeveloper/MentalOmegaWorld/total.svg)](https://github.com/MahBoiDeveloper/MentalOmegaWorld/releases) [![Support me on Boosty](https://img.shields.io/badge/boosty-50₽/month-green.svg?logo=boosty)](https://boosty.to/mah_boi)
 
+# Mental Omega World
 ...is an addon for the [Mental Omega](https://mentalomega.com), which adds fanmade missions and documentation about it (authors, translations, etc.) to the modification. The main goal of the project is to provide a user-friendly mission mappack with multilingual translation.
 
 ## Downloads
