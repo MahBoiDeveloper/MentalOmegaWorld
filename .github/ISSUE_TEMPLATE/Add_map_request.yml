@@ -1,7 +1,7 @@
 name: Add Map Request
 description: Open an issue to give request for add new map to the project.
 title: "[Add Map] Your map name"
-labels: [Add Map]
+labels: [add map]
 body:
   - type: markdown
     attributes:
