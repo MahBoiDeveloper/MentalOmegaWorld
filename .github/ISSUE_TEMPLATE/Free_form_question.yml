@@ -1,7 +1,7 @@
 name: Free Form Question
 description: Open an issue to ask questions.
 title: "[Question] Your question title"
-labels: [Question]
+labels: [question]
 body:
   - type: markdown
     attributes:
