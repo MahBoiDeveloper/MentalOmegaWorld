@@ -48,4 +48,5 @@ Read more about license: https://creativecommons.org/licenses/by-nc/4.0/legalcod
 Read more about original missions and campaigns authors: https://github.com/MahBoiDeveloper/MentalOmegaWorld/blob/master/Credits.md
 
 ## Legal
-This project has no direct affiliation with Electronic Arts Inc. Command & Conquer, Command & Conquer Red Alert 2, Command & Conquer Yuri's Revenge are registered trademarks of Electronic Arts Inc. All Rights Reserved.
+EA has not endorsed and does not support this product. Command & Conquer, Command & Conquer: Generals, Command & Conquer: Generals — Zero Hour are registered trademarks of Electronic Arts Inc. All Rights Reserved.
+
