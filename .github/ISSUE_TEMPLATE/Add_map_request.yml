@@ -11,7 +11,7 @@ body:
               
         Make sure you follow these instruction and fill in every gap.
 
-  - type: textarea
+  - type: input
     id: mapname
     attributes:
       label: Map Name
@@ -49,7 +49,7 @@ body:
     validations:
       required: true
 
-  - type: textarea
+  - type: input
     id: author
     attributes:
       label: Author
@@ -58,7 +58,7 @@ body:
     validations:
       required: true
       
-  - type: textarea
+  - type: input
     id: author-link
     attributes:
       label: Author Contact
@@ -67,7 +67,7 @@ body:
     validations:
       required: true
 
-  - type: textarea
+  - type: input
     id: map-link
     attributes:
       label: Download Link
