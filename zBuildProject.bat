@@ -1,6 +1,11 @@
 @echo off
+cd /d %~dp0
+
 echo Mental Omega World version 0.1 by mah_boi
 echo.
+
+set ar=ccmix.exe
+set zip=Tools\%ar%
 
 : Clearing Build folder
 rmdir /s /q Build > nul 2> nul
@@ -36,8 +41,19 @@ echo.
 
 for /f "tokens=*" %%f in ('dir "Source\MIX\" /a:d /b') do (
 	echo Compiling %%f.mix...
-	Tools\ccmix.exe --create --lmd --game=ra2 --dir "Source\MIX\%%f" --mix "Build\%%f.mix"
+	start /min "" %zip% --create --lmd --game=ra2 --dir "Source\MIX\%%f" --mix "Build\%%f.mix"
 	)
+
+:repeat
+for /f %%N in ('tasklist /FI "IMAGENAME eq %ar%" /FO CSV /NH ^| find /I /C "%ar%"') do (
+	timeout /t 1 > nul
+	set "count=%%N"
+	)
+
+if %count% GTR 0 (
+	goto :repeat
+)
+
 echo.
 echo MIX archives has been compiled
 echo Project compilation has been finished. Please check Build folder
